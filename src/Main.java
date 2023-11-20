@@ -26,7 +26,7 @@ public class Main {
         System.out.println("\n");
         printOutput(aqem);
     }
-
+    //Add Some Comments
     public static void printOutput(Student student_object) {
         System.out.print("INFO: \nName: " + student_object.getName() + "\nCredit: " + student_object.getCredit() + "\nYear: " + student_object.getYear());
     }
