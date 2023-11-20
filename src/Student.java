@@ -35,9 +35,7 @@ public class Student {
 
     public void setYear()
     {
-        // 1st hour = RM 5
-        // 2st hour = RM 3
-        // Subsequence hour = RM 2
+
         if (hours <= 1)
         {
             fee = 5;
